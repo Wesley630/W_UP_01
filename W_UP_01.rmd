@@ -77,3 +77,5 @@ The probability of getting a result like this is 0.000009421 if there really is 
 
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
+
+I looked at push-up data for line and skill players. Skill players did way more push-ups than line players, doing three times as many on average. We did a test to make sure this difference was real and not just by chance and the test showed that it was a real difference.
